@@ -1,0 +1,1 @@
+This is a simple javascript project. Live link: [Easy Shop](https://clever-bhaskara-add8a9.netlify.app/).
